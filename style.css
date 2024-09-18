@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;600;800;900&family=Poppins:wght@300;400;500;600&display=swap');
+
+
+
+.Tourism-bg-container{
+
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    
+    background-size: cover;
+    padding: 18px;
+    
+}
+
+.tourism-main-heading{
+    font-family: 'tahoma';
+    color: rgb(0, 20, 75);
+    text-align: center;
+    font-weight: bold;
+}
+.tourism-second-heading{
+    font-family: "tahoma";
+    color: rgb(0, 20, 75);
+    font-size: 18px;
+    margin-top: 55px;
+    font-weight: bold;
+}
+.tourism-card-bg-container{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 14px;
+    width: 200px;
+    border-radius: 14px;
+}
+.torism-card-image{
+    height: 140px;
+    width: 100px;
+
+}
+.tourism-card-heading{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.tourism-card-para{
+    font-size: 14px;
+    color: rgb(156, 148, 148);
+}
+.tourism-button{
+    height: 40px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 16px;
+    background-color: rgb(75, 221, 172);
+    color: #ffffff;
+}
